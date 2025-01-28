@@ -3,11 +3,11 @@
 title: Ashvik Jha
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Aaswik Jha
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ashvik
+last_name: Jha
 
 # Status emoji
 status:
@@ -17,38 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Student at G.L. Bajaj
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: G.L. Bajaj
+    url: https://www.glbitm.org/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:CSE23211@glbitm.ac.in'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/HarshJh25388293
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Vik-125
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/ashvik-jha-07449b28a/
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Pyhton programming
+    institution: Harvard university
+    date_start: 2024-01-01
+    date_end: 2024-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      This was a coure of Basic Python programming under sir David J. Malan.
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 
+      url: 'https://learning.edx.org/course/course-v1:HarvardX+CS50P+Python/home'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
